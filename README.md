@@ -3,12 +3,12 @@ Codes to replicate the results in "Oil shocks and stock market: Revisiting the d
 data.csv 
 ----------------------
 Contains the data used to estimate the models
--Period in months
--op: Monthly returns of crude oil prices
--xoi: Monthly returns of NYSE Arca Oil Index 
--EPI: Economic Policy Uncertainty Index ( Scaled the series by dividing it by 100)
--rv : Realised volatility constructed based on daily BSE Sensex
--ret : Monthly returns of BSE Sensex
+ - Period in months
+ - op: Monthly returns of crude oil prices
+ - xoi: Monthly returns of NYSE Arca Oil Index 
+ - EPI: Economic Policy Uncertainty Index ( Scaled the series by dividing it by 100)
+ - rv : Realised volatility constructed based on daily BSE Sensex
+ - ret : Monthly returns of BSE Sensex
 
 datalab.csv
 -----------------------
